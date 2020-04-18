@@ -1,2 +1,3 @@
 # hello-word
-personal
+个人
+hi!
